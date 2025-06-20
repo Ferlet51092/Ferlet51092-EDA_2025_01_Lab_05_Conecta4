@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EDA_2025_01_Lab_05_ConectaFour:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EDA_2025_01_Lab_05_ConectaFour_jar</output-path>
+    <root id="archive" name="EDA_2025_01_Lab_05_ConectaFour.jar">
+      <element id="module-output" name="EDA_2025_01_Lab_05_ConectaFour" />
+    </root>
+  </artifact>
+</component>
